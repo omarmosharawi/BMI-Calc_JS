@@ -33,7 +33,7 @@ If you’re interested in contributing to the BMI-Calc_JS project, your help is 
 4. Open a Pull Request
 
 ## Contact
-Omar Mohamed Sharawi - @omarmosharawi | Omar Mohamed Sharawi
+Omar Mohamed Sharawi - @omarmosharawi | omarmosharawi@gmail.com
 
 ---
 
