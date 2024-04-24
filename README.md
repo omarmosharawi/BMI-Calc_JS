@@ -2,6 +2,9 @@
 
 Welcome to the BMI-Calc_JS repository! This project is a JavaScript-based Body Mass Index (BMI) calculator that helps users determine their BMI and understand their weight category.
 
+## How to use
+Visit the GitHub Pages site to use online. => [BMI Calculator](https://omarmosharawi.github.io/BMI-Calc_JS/)
+
 ## Features
 
 - **BMI Calculation**: Quickly calculate your BMI by inputting your height and weight.
