@@ -27,9 +27,9 @@ cd BMI-Calc_JS
 If you’re interested in contributing to the BMI-Calc_JS project, your help is welcome! Here’s how you can contribute:
 
 ## Fork the Project
-1. Create your Feature Branch (git checkout -b feature/YourFeature)
-2. Commit your Changes (git commit -m 'Add YourFeature')
-3. Push to the Branch (git push origin feature/YourFeature)
+1. Create your Feature Branch `git checkout -b feature/YourFeature`
+2. Commit your Changes `git commit -m 'Add YourFeature'`
+3. Push to the Branch `git push origin feature/YourFeature`
 4. Open a Pull Request
 
 ## Contact
